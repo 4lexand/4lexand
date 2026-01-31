@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Alexander! 👋
+### Systems Engineer & Web3 Backend Developer
 
-<!--
-**4lexand/4lexand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between **Systems Engineering rigor** and **Web3 velocity**.
+I specialize in building secure, high-performance distributed systems on **Solana** using **Rust**. My focus is on data integrity, cryptographic security, and low-latency dApps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* **Core:** `Rust` `TypeScript` `Node.js` `SQL`
+* **Blockchain:** `Solana` `Anchor Framework` `Web3.js` `Metaplex`
+* **Infrastructure:** `Docker` `Linux` `Git` `CI/CD`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛡️ [Sentinel](https://www.alexx17.xyz/sentinel.html) 
+> **Forensic Data Integrity dApp.**
+> * **Stack:** Rust, Anchor, React.
+> * **Engineering:** Implemented custom cryptographic hashing on-chain to ensure immutable chain-of-custody for digital evidence.
+> * **Status:** Live / MVP.
+
+#### 🎲 [RollRush](https://github.com/4lexand/solana-dice).
+> **Provably Fair GameFi Protocol.**
+> * **Stack:** Rust, Solana Mobile Stack (SMS).
+> * **Engineering:** Optimized transaction latency for real-time betting mechanics directly on Solana. Fully verifiable on-chain logic.
+
+---
+
+### ⚡ What I'm working on
+* Refining **Zero-Knowledge Proof** concepts for privacy dApps.
+* Optimizing RPC node performance for high-load gaming events.
+
+---
+
+### 📫 Let's Connect
+* **Upwork:** https://www.upwork.com/freelancers/~01a6119a2326f5b533?mp_source=share
+* **X (Twitter):** @4lexx07
+* **Location:** El Salvador 🇸🇻 (CST Zone)
+
+
+
