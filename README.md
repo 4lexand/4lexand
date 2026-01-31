@@ -37,7 +37,7 @@ I specialize in building secure, high-performance distributed systems on **Solan
 
 ### 📫 Let's Connect
 * **Bio:** (https://www.alexx17.xyz/)
-* **X (Twitter):** @4lexx07
+* **X (Twitter):** (https://x.com/4lexx07)
 * **Location:** El Salvador 🇸🇻 (CST Zone)
 
 
