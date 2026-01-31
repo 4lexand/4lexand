@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander! 👋
+# Hi there, I'm Alexander! 
 ### Systems Engineer & Web3 Backend Developer
 
 I bridge the gap between **Systems Engineering rigor** and **Web3 velocity**.
@@ -14,7 +14,7 @@ I specialize in building secure, high-performance distributed systems on **Solan
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🛡️ [Sentinel](https://www.alexx17.xyz/sentinel.html) 
 > **Forensic Data Integrity dApp.**
@@ -29,7 +29,7 @@ I specialize in building secure, high-performance distributed systems on **Solan
 
 ---
 
-### ⚡ What I'm working on
+###  What I'm working on
 * Refining **Zero-Knowledge Proof** concepts for privacy dApps.
 * Optimizing RPC node performance for high-load gaming events.
 
