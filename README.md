@@ -36,7 +36,7 @@ I specialize in building secure, high-performance distributed systems on **Solan
 ---
 
 ### 📫 Let's Connect
-* **Upwork:** https://www.upwork.com/freelancers/~01a6119a2326f5b533?mp_source=share
+* **Bio:** (https://www.alexx17.xyz/)
 * **X (Twitter):** @4lexx07
 * **Location:** El Salvador 🇸🇻 (CST Zone)
 
